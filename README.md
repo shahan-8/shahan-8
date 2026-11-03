@@ -1,38 +1,35 @@
 # Hi, I'm Shahan 👋
 
-**Full-Stack / MERN Developer ➔ System Architecture & Agentic AI**  
-Passionate about engineering systems beyond basic syntax: architecting scalable backend systems, robust database layers, and autonomous AI-driven agentic workflows.
+I'm a JavaScript-focused developer learning and building full-stack web applications, with a growing interest in backend engineering and practical AI integrations.
 
----
+I enjoy turning ideas into working projects, understanding how frontend and backend systems connect, and improving my skills by building and shipping.
 
-### 🚀 What I Focus On
+## What I'm Working With
 
-- **Modern Full-Stack & System Design:** Designing distributed, production-grade architectures using Node.js, Express, TypeScript, and React. Focused on caching strategies, API contracts, streaming data (SSE/WebSockets), and microservices.
-- **AI-Native Engineering & Agentic Workflows:** Orchestrating multi-agent systems (ReAct loops, human-in-the-loop patterns), context engineering, and integrating MCP tools.
-- **Data Layers & Vector Systems:** Document indexing, query optimization, and vector search with MongoDB Atlas Vector Search.
-- **Code Review & Systems Integrity:** Building resilient software through strict schema validation (Zod), CI/CD pipelines, and automated end-to-end testing.
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Database:** MongoDB, Supabase
+- **Tools:** Git, GitHub, Postman, Vite
+- **Exploring:** Next.js, AI APIs, and AI-powered application workflows
 
----
+## Featured Projects
 
-### 🛠️ Tech Stack & Architecture Toolkit
+- [Task Manager App](https://github.com/shahan-8/Task-Manager-App) — Full-stack task CRUD app using React and Express.
+- [Hugging Chef](https://github.com/shahan-8/Hugging-Chef) — AI-assisted recipe suggestions using the Hugging Face Inference API.
+- [Movie Search App](https://github.com/shahan-8/Movie-search-app) — Search for movies using an external API.
+- [Assembly: Endgame](https://github.com/shahan-8/Assemble-Game) — A React word-guessing game with programming-themed words.
+- [BucketPrompt](https://github.com/shahan-8/bucketprompt) — Searchable gallery for AI image prompts.
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5/CSS3
-- **Backend & APIs:** Node.js, Express, REST APIs, WebSockets, Server-Sent Events (SSE)
-- **Databases & Caching:** MongoDB, Mongoose, Redis, Vector Databases
-- **AI & Agent Orchestration:** LangChain / LangGraph, Model Context Protocol (MCP), Tool Calling, Google AI Studio, Anthropic / OpenAI APIs
-- **DevOps & Tooling:** Git, GitHub, Docker, Postman, Linux
+## Current Learning Goals
 
----
+- Strengthening JavaScript and React fundamentals
+- Building reliable REST APIs with Node.js and Express
+- Working with databases and data modelling
+- Learning authentication, deployment, and application security
+- Exploring practical AI integrations in web apps
 
-### 📌 Current Focus & Learning Roadmaps
+## GitHub
 
-- [ ] Scaling agentic workflows with persistent short & long-term memory
-- [ ] Advanced distributed caching, message queues (BullMQ/Kafka), and horizontal scaling patterns
-- [ ] Evaluation frameworks and guardrails for production LLM systems
+Explore my repositories: [github.com/shahan-8](https://github.com/shahan-8)
 
----
-
-### 🌐 Connect With Me
-
-- **GitHub:** [@shahan-8](https://github.com/shahan-8)
-- Feel free to explore my repositories or reach out for collaborations on full-stack web apps and AI-driven projects!
+I'm always learning, building, and improving one project at a time.
